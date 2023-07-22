@@ -1,0 +1,2 @@
+# All unpinned blobs are from RUI 2.0 F06
+system/system/app/OppoCamera/OppoCamera.apk:product/app/OppoCamera/OppoCamera.apk;PRESIGNED
