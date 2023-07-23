@@ -18,4 +18,7 @@ OPLUS_CAMERA_PROPERTIES := \
     persist.vendor.camera.privapp.list=com.oppo.camera \
     persist.camera.privapp.list=com.oppo.camera
 
+PRODUCT_VENDOR_PROPERTIES += $(OPLUS_CAMERA_PROPERTIES)
+PRODUCT_PRODUCT_PROPERTIES += $(OPLUS_CAMERA_PROPERTIES)
+
 $(call inherit-product, vendor/oneplus/camera/camera-vendor.mk)
