@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <privapp-permissions package="com.oplus.camera" >
+    <privapp-permissions package="com.oppo.camera" >
         <permission name="android.permission.SYSTEM_CAMERA" />
         <permission name="android.permission.CAMERA_OPEN_CLOSE_LISTENER" />
         <permission name="android.permission.CAMERA" />
