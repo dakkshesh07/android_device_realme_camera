@@ -12,7 +12,7 @@ public class OplusFeatureConfigManager {
         return sInstance;
     }
 
-    boolean hasFeature() throws RemoteException {
+    public boolean hasFeature(String name) {
         return false;
     }
 }
