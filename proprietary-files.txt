@@ -1,3 +1,7 @@
 # All unpinned blobs are from RUI 2.0 F06
+
+# APKs (patched) - from https://github.com/dakkshesh07/oppo-camera
 system/system/app/OppoCamera/OppoCamera.apk:product/app/OppoCamera/OppoCamera.apk
+
+# APKs
 system/system/euclid/my_stock/priv-app/OppoGallery2/OppoGallery2.apk:product/app/OppoGallery2/OppoGallery2.apk
