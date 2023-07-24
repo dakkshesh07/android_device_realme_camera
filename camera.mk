@@ -21,4 +21,4 @@ OPLUS_CAMERA_PROPERTIES := \
 PRODUCT_VENDOR_PROPERTIES += $(OPLUS_CAMERA_PROPERTIES)
 PRODUCT_PRODUCT_PROPERTIES += $(OPLUS_CAMERA_PROPERTIES)
 
-$(call inherit-product, vendor/oneplus/camera/camera-vendor.mk)
+$(call inherit-product, vendor/realme/camera/camera-vendor.mk)
