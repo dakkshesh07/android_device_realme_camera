@@ -3,5 +3,9 @@
 # APKs (patched) - from https://github.com/dakkshesh07/oppo-camera
 system/system/app/OppoCamera/OppoCamera.apk:product/app/OppoCamera/OppoCamera.apk
 
-# APKs
+# APKs (stock)
 system/system/euclid/my_stock/priv-app/OppoGallery2/OppoGallery2.apk:product/app/OppoGallery2/OppoGallery2.apk
+
+# Libs
+vendor/lib64/libOppoAPSMemMgr.so
+vendor/lib/libOppoAPSMemMgr.so
